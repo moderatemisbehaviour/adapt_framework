@@ -1,5 +1,6 @@
 src/components
-src/theme
+src/theme/*
+!src/theme/adapt-contrib-smooshnilla
 src/menu
 src/extensions
 src/less

@@ -1,6 +1,5 @@
 {
     "dependencies": {
-        "adapt-contrib-vanilla": ">=3",
         "adapt-contrib-text": ">=2.0.3",
         "adapt-contrib-narrative": ">=2.1",
         "adapt-contrib-media": ">=3",
